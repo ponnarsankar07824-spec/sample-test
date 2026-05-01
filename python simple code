@@ -4,3 +4,4 @@ c= n*a
 print(c)
 print(a)
 print(n)
+print(n,c)

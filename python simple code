@@ -3,3 +3,4 @@ a=1
 c= n*a
 print(c)
 print(a)
+print(n)
